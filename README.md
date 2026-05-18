@@ -23,7 +23,7 @@ The purpose of this model is to provide a fast, reliable, and consistent way to 
 **Magnolia × soulangeana** – Commonly known as saucer magnolia, this plant is notable for its large, cup-shaped flowers and broad leaves. It is included in the dataset to help the model recognize flowering patterns, leaf shapes, and seasonal variations.
 
 2. Tabebuia rosea
-![2](https://github.com/user-attachments/assets/tabebuia-rosea-image-url)
+![2](https://github.com/user-attachments/assets/5f3bcdfd-0695-4b2b-a7f5-e0e635b8e328)
 
 **Tabebuia rosea** – Commonly known as pink trumpet tree or rosy trumpet tree, this plant is distinguished by its vibrant pink to magenta trumpet-shaped flowers and compound leaves. It is included in the dataset to help the model recognize distinctive flower colors, petal structures, and seasonal blooming patterns.
 
