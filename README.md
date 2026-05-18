@@ -56,8 +56,8 @@ The purpose of this model is to provide a fast, reliable, and consistent way to 
 
 ### 6. Malus domestica
 <img width="576" height="864" alt="6" src="https://github.com/user-attachments/assets/9626749d-f778-4168-8c6d-61f6c93943ac" />
-**Scientific Name: Malus domestica**
 
+**Scientific Name: Malus domestica**
 **Description:** Commonly known as the Apple tree, Malus domestica is a deciduous fruit tree cultivated worldwide for its edible fruits. The tree produces delicate white and pink blossoms in spring before bearing apples of various colors and varieties. Apple trees are valued for their ornamental beauty, culinary fruits, and importance in agriculture. They thrive in temperate climates and are iconic trees in orchards and gardens.
 
 ### 7. Prunus persica 
