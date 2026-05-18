@@ -15,8 +15,9 @@ The images are organized into labeled categories and uploaded to Teachable Machi
 The purpose of this model is to provide a fast, reliable, and consistent way to identify creeper plants based on their visual features. By training the model on a balanced dataset with diverse images, it can recognize leaf shapes, vine structures, and other distinguishing characteristics without manual inspection. This project also serves as a practical example of machine learning and computer vision principles, offering opportunities for learning and experimentation with AI technology.
 
 
-**Plant Species in the Dataset:**
+ **B. Plant Species in the Dataset:**
 
+1. Magnolia × soulangeana
 ![1](https://github.com/user-attachments/assets/7a8e0db1-89db-4d62-8fce-f245590f202b)
 
 **Magnolia × soulangeana** – Commonly known as saucer magnolia, this plant is notable for its large, cup-shaped flowers and broad leaves. It is included in the dataset to help the model recognize flowering patterns, leaf shapes, and seasonal variations.
