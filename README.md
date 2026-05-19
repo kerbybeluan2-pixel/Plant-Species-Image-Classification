@@ -189,6 +189,11 @@ Number of images per class :250
 
 <img width="398" height="896" alt="Screenshot 2026-02-16 182938" src="https://github.com/user-attachments/assets/4915f5f1-2cf3-44ee-9849-cd735bd108ca" />
 
+https://drive.google.com/drive/folders/1fYEQziZafAnCBR8wvVknrI-CGxZMmJKb?usp=drive_link
+
+<img width="1634" height="424" alt="image" src="https://github.com/user-attachments/assets/8bdf7546-cb57-4d5b-84c5-4d5d46aad787" />
+
+
 **Reflection Questions**
 
 **1. How did the number of images per class affect your model's accuracy?****
